@@ -26,8 +26,7 @@ Experienced software engineer with a strong background in developing award-winni
 
 <p align="left"><a href="http://www.instagram.com/khumozin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/9674861/khumo-mogorosi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
-### Badges
 
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
 <a href="http://www.github.com/khumozin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=khumozin&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
