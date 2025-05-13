@@ -6,8 +6,6 @@ Software Engineer
 
 Experienced software engineer with a strong background in developing award-winning strategies for a diverse clientele. 7+ years of industry experience includes leading engineering teams to achieve concrete goals.
 
-* 🌍  I'm based in South Africa
-* ✉️  You can contact me at [khumo.dev@gmail.com](mailto:khumo.dev@gmail.com)
 
 ### Skills
 
